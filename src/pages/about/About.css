@@ -1,0 +1,40 @@
+.About .content {
+  padding-top: 60px;
+}
+
+.About .content .avi-container {
+  text-align: center;
+}
+
+.About .my-photo {
+  height: 275px;
+  display: inline-block;
+  width: 275px;
+}
+
+.About .my-photo img {
+  display: block;
+  width: 100%;
+  border-radius: 999px;
+}
+
+.About h3 {
+  text-align: center;
+}
+
+.About .list {
+  padding-left: 40px;
+  margin-top: 0;
+}
+
+.About li {
+  margin-top: 0.5em;
+}
+
+.about-exit {
+  text-align: center;
+}
+.About .emoji {
+  display: inline-block;
+  margin-right: 2px;
+}

@@ -1,0 +1,16 @@
+a,
+.Link {
+  color: black;
+
+  &:visited {
+    color: black;
+  }
+
+  &--type {
+    &-button {
+      background: #37879a;
+      border-radius: 4px;
+      padding: 0.5em 1em;
+    }
+  }
+}
